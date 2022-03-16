@@ -1,0 +1,14 @@
+Hello everyone! Recently I am working for my Bachelor's thesis on Auto Machine Learning.
+I want to invite those who are working with Python and Machine Learning tasks to evaluate my first release of the AutoMLWrapper.
+AutoMLWrapper library can offer several advantages to the user:
+
+1) Automatic big-data handling using samling
+2) Automatic unseen-value handling using unique values
+3) Automatic missing-value handling beside remove, replace and impute
+4) Automatic detection of dataset's columns types beside string, numeric and categorical
+5) Automatic detection of machine learning problem beside classification and regression
+6) Automatic algorithm detection beside lot of algorithms
+7) Automatic hyperparameter detection for the gived dataset and algorithm
+
+Find the library, documentation, refferences in the below link:
+https://pypi.org/project/automlwrapper/

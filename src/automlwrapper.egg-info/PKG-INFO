@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: automlwrapper
+Version: 0.4.4
+Summary: Automatic Machine Learning Wrapper Library
+Home-page: https://github.com/koureasstavros/AutoMLWrapper
+Author: Stavros Koureas
+Author-email: koureasstavros@gmail.com
+License: MIT
+Project-URL: Colab Notebook, https://colab.research.google.com/drive/1isX1RB5EeOxFARZ2J-Ekfjbo-PKMTnwi?usp=sharing
+Description: Automatic Machine Learning Wrapper Library
+        
+        ----------------------------------------------
+        
+        1)Automatic sampling method on big datasets
+        
+        2)Automatic feature type method on big datasets
+        
+        3)Automatic missing values handling
+        
+        4)Automatic algorithm detection
+        
+        5)Automatic algorithm hyper-parameter detection
+        
+Keywords: Machine,Learning,Automatic
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

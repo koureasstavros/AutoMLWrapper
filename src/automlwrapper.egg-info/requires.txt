@@ -1,0 +1,4 @@
+sklearn
+imblearn
+scipy
+scikit-optimize>=0.9.0
